@@ -3,7 +3,10 @@
 #' @description Add two numbers up
 #' @param x One number
 #' @param y The other number
-addUp = function(x, y){
-  return(x+y)
+addUp = function(a, b){
+  return(a+b)
 }
 
+Multiply = function(x,y){
+  return(x*y)
+}
