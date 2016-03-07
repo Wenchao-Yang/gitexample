@@ -9,6 +9,10 @@ This is one exercise to practice how to use github with RStudio.
 
 ## Create A Pull Request
 
-1. From https://github.com/Wenchao-Yang/gitexample, copy the SSH key
+1. On https://github.com/Wenchao-Yang/gitexample, create a new branch from *master*
 
-2. 
+2. Copy the SSH key
+
+3. Open RStudio, create a New Project --> Version Control --> Git --> Paste the SSH key to *Repository URL* and Browse the directory--> hit 'Create Project'
+
+4. On RStudio, select 'Git' --> click the gear icon --> click 'shell' --> 
