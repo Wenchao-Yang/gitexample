@@ -1,0 +1,14 @@
+---
+title: "EX1_use_git_with_rstudio"
+author: "Wenchao Yang"
+date: "March 7, 2016"
+output: html_document
+---
+
+This is one exercise to practice how to use github with RStudio.
+
+## Create A Pull Request
+
+1. From https://github.com/Wenchao-Yang/gitexample, copy the SSH key
+
+2. 
