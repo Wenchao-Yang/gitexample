@@ -7,6 +7,6 @@ addUp = function(a, b){
   return(a+b)
 }
 
-Multiply = function(x,y){
+multiply = function(x,y){
   return(x*y)
 }
